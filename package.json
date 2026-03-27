@@ -1,5 +1,5 @@
 {
-  "name": "JUNE-X",
+  "name": "LEE Tech-MD",
   "version": "2.7.2",
   "description": "WhatsApp Bot",
   "main": "index.js",
@@ -18,7 +18,7 @@
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "supreme",
+  "author": "Lee Tech",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
