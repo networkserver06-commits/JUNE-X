@@ -3,7 +3,7 @@
   "description": "Professional WhatsApp Bot with auto-session authentication",
   "repository": "https://github.com/Vinpink2/June-Ultra",
   "build": {
-    "builder": "NIXPACKS",
+    "builder": "DOCKERFILE",
     "buildCommand": "npm install"
   },
   "deploy": {
@@ -13,8 +13,12 @@
   },
   "variables": {
     "SESSION_ID": {
-      "description": "REQUIRED: Your session ID. Must begin with 'Ultra-X:~'",
+      "description": "REQUIRED: Your session token (june-ultra:~...) from the pairing page",
       "required": true
+    },
+    "REPO_URL": {
+      "description": "Optional: override the bot source zip URL the loader downloads at startup",
+      "required": false
     }
   }
 }

@@ -24,7 +24,7 @@
 | Action | Link |
 |--------|------|
 | **Fork Repository** | <a href="https://github.com/Vinpink2/June-Ultra/fork"><img src="https://img.shields.io/badge/Fork Repo%20-24292e?style=for-the-badge&logo=github&logoColor=white&logoSize=auto"/></a> |
-| **Download ZIP** | <a href="https://github.com/Vinpink2/June_X_Ultra/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/Download%20-2ea043?style=for-the-badge&logo=github&logoColor=white&logoSize=auto"/></a> |
+| **Download ZIP** | <a href="https://github.com/Vinpink2/June-Ultra/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/Download%20-2ea043?style=for-the-badge&logo=github&logoColor=white&logoSize=auto"/></a> |
 
 </div>
 
@@ -36,9 +36,10 @@
 
 | Platform | Button |
 |----------|--------|
-| **Heroku** | <a href="https://dashboard.heroku.com/new?template=https://github.com/vinpink2/June-Ultra"><img src="https://img.shields.io/badge/HerokuHosting-6762A6?style=for-the-badge&logo=heroku&logoColor=white&logoSize=auto"/></a> |
+| **Heroku** | <a href="https://dashboard.heroku.com/new?template=https://github.com/Vinpink2/June-Ultra"><img src="https://img.shields.io/badge/HerokuHosting-6762A6?style=for-the-badge&logo=heroku&logoColor=white&logoSize=auto"/></a> |
 | **Railway** | <a href="https://railway.app/new"><img src="https://img.shields.io/badge/Railway-000000?style=for-the-badge&logo=railway&logoColor=white&logoSize=auto"/></a> |
 | **Render** | <a href="https://render.com"><img src="https://img.shields.io/badge/Render-0099ff?style=for-the-badge&logo=render&logoColor=white&logoSize=auto"/></a> |
+| **Koyeb (Docker)** | <a href="https://app.koyeb.com/deploy?type=git&amp;repository=github.com/Vinpink2/June-Ultra&amp;branch=main&amp;builder=dockerfile"><img src="https://img.shields.io/badge/Koyeb-6C4CF1?style=for-the-badge"/></a> |
 | **CypherXHost** | <a href="https://platform.cypherx.store/register?ref=REPLI2955E16C9A"><img src="https://img.shields.io/badge/CypherXHosting-007BFF?style=for-the-badge&logo=cypherxhost&logoColor=white&logoSize=auto"/></a> |
 
 </div>
@@ -51,9 +52,9 @@
 
 | Method | Button |
 |--------|--------|
-| **Pair Code 1** | <a href="https://pair-junex.onrender.com/"><img src="https://img.shields.io/badge/Pair%20Code%20%231-1a1a4e?style=for-the-badge&logo=whatsapp&logoColor=white&logoSize=auto"/></a> |
-| **Pair Code 2** | <a href="https://pairjune.xwolf.space/"><img src="https://img.shields.io/badge/Pair%20Code%20%232-1a1a4e?style=for-the-badge&logo=whatsapp&logoColor=white&logoSize=auto"/></a> |
-| **QR Code** | <a href="https://pair-junex-code-5b6454f71d47.herokuapp.com/qr"><img src="https://img.shields.io/badge/QR%20Code%20%233-1a1a4e?style=for-the-badge&logo=whatsapp&logoColor=white&logoSize=auto"/></a> |
+| **Pair 1** | <a href="https://burning-lorena-eminentbo-ede53cc1.koyeb.app/pair"><img src="https://img.shields.io/badge/Pair%201-1a1a4e?style=for-the-badge&logo=whatsapp&logoColor=white&logoSize=auto"/></a> |
+| **Pair 2** | <a href="https://pair-junex.onrender.com/"><img src="https://img.shields.io/badge/Pair%202-1a1a4e?style=for-the-badge&logo=whatsapp&logoColor=white&logoSize=auto"/></a> |
+| **QR Code** | <a href="https://burning-lorena-eminentbo-ede53cc1.koyeb.app/pair"><img src="https://img.shields.io/badge/QR%20Code-1a1a4e?style=for-the-badge&logo=whatsapp&logoColor=white&logoSize=auto"/></a> |
 
 </div>
 
